@@ -1,0 +1,1833 @@
+[
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "appcache-manifest",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Avoids Application Cache",
+    "auditDocumentationLink": "https://web.dev/appcache-manifest/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "apple-touch-icon",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Provides a valid `apple-touch-icon`",
+    "auditDocumentationLink": "https://web.dev/apple-touch-icon/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "aria-allowed-attr",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`[aria-*]` attributes match their roles",
+    "auditDocumentationLink": "https://web.dev/aria-allowed-attr/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "aria-command-name",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`button`, `link`, and `menuitem` elements have accessible names",
+    "auditDocumentationLink": "https://web.dev/aria-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "aria-hidden-body",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`[aria-hidden=\"true\"]` is not present on the document `<body>`",
+    "auditDocumentationLink": "https://web.dev/aria-hidden-body/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "aria-hidden-focus",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`[aria-hidden=\"true\"]` elements do not contain focusable descendents",
+    "auditDocumentationLink": "https://web.dev/aria-hidden-focus/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "aria-input-field-name",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "ARIA input fields have accessible names",
+    "auditDocumentationLink": "https://web.dev/aria-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "aria-meter-name",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "ARIA `meter` elements have accessible names",
+    "auditDocumentationLink": "https://web.dev/aria-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "aria-progressbar-name",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "ARIA `progressbar` elements have accessible names",
+    "auditDocumentationLink": "https://web.dev/aria-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "aria-required-attr",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`[role]`s have all required `[aria-*]` attributes",
+    "auditDocumentationLink": "https://web.dev/aria-required-attr/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "aria-required-children",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Elements with an ARIA `[role]` that require children to contain a specific `[role]` have all required children.",
+    "auditDocumentationLink": "https://web.dev/aria-required-children/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "aria-required-parent",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`[role]`s are contained by their required parent element",
+    "auditDocumentationLink": "https://web.dev/aria-required-parent/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "aria-roles",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`[role]` values are valid",
+    "auditDocumentationLink": "https://web.dev/aria-roles/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "aria-toggle-field-name",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "ARIA toggle fields have accessible names",
+    "auditDocumentationLink": "https://web.dev/aria-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "aria-tooltip-name",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "ARIA `tooltip` elements have accessible names",
+    "auditDocumentationLink": "https://web.dev/aria-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "aria-treeitem-name",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "ARIA `treeitem` elements have accessible names",
+    "auditDocumentationLink": "https://web.dev/aria-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "aria-valid-attr",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`[aria-*]` attributes are valid and not misspelled",
+    "auditDocumentationLink": "https://web.dev/aria-valid-attr/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "aria-valid-attr-value",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`[aria-*]` attributes have valid values",
+    "auditDocumentationLink": "https://web.dev/aria-valid-attr-value/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "bootup-time",
+    "level": "warn",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "JavaScript execution time",
+    "auditDocumentationLink": "https://web.dev/bootup-time/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "button-name",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Buttons have an accessible name",
+    "auditDocumentationLink": "https://web.dev/button-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "color-contrast",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Background and foreground colors have a sufficient contrast ratio",
+    "auditDocumentationLink": "https://web.dev/color-contrast/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "content-width",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Content is sized correctly for the viewport",
+    "auditDocumentationLink": "https://web.dev/content-width/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "crawlable-anchors",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Links are crawlable"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "cumulative-layout-shift",
+    "level": "warn",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Cumulative Layout Shift",
+    "auditDocumentationLink": "https://web.dev/cls/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "definition-list",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`<dl>`'s contain only properly-ordered `<dt>` and `<dd>` groups, `<script>`, `<template>` or `<div>` elements.",
+    "auditDocumentationLink": "https://web.dev/definition-list/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "document-title",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Document has a `<title>` element",
+    "auditDocumentationLink": "https://web.dev/document-title/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "dom-size",
+    "level": "warn",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Avoids an excessive DOM size",
+    "auditDocumentationLink": "https://developers.google.com/web/fundamentals/performance/rendering/reduce-the-scope-and-complexity-of-style-calculations"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "duplicate-id-active",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`[id]` attributes on active, focusable elements are unique",
+    "auditDocumentationLink": "https://web.dev/duplicate-id-active/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "duplicate-id-aria",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "ARIA IDs are unique",
+    "auditDocumentationLink": "https://web.dev/duplicate-id-aria/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "errors-in-console",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "No browser errors logged to the console",
+    "auditDocumentationLink": "https://web.dev/errors-in-console/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "external-anchors-use-rel-noopener",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Links to cross-origin destinations are safe",
+    "auditDocumentationLink": "https://web.dev/external-anchors-use-rel-noopener/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "first-contentful-paint",
+    "level": "warn",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "First Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/first-contentful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "first-cpu-idle",
+    "level": "warn",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "First CPU Idle",
+    "auditDocumentationLink": "https://web.dev/first-cpu-idle/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "first-meaningful-paint",
+    "level": "warn",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "First Meaningful Paint",
+    "auditDocumentationLink": "https://web.dev/first-meaningful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "font-display",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "All text remains visible during webfont loads",
+    "auditDocumentationLink": "https://web.dev/font-display/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "font-size",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Document uses legible font sizes",
+    "auditDocumentationLink": "https://web.dev/font-size/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "form-field-multiple-labels",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "No form fields have multiple labels",
+    "auditDocumentationLink": "https://web.dev/form-field-multiple-labels/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "frame-title",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`<frame>` or `<iframe>` elements have a title",
+    "auditDocumentationLink": "https://web.dev/frame-title/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "geolocation-on-start",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Avoids requesting the geolocation permission on page load",
+    "auditDocumentationLink": "https://web.dev/geolocation-on-start/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "heading-order",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Heading elements appear in a sequentially-descending order",
+    "auditDocumentationLink": "https://web.dev/heading-order/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "html-has-lang",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`<html>` element has a `[lang]` attribute",
+    "auditDocumentationLink": "https://web.dev/html-has-lang/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "html-lang-valid",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`<html>` element has a valid value for its `[lang]` attribute",
+    "auditDocumentationLink": "https://web.dev/html-lang-valid/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "http-status-code",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Page has successful HTTP status code",
+    "auditDocumentationLink": "https://web.dev/http-status-code/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "image-alt",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Image elements have `[alt]` attributes",
+    "auditDocumentationLink": "https://web.dev/image-alt/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "image-aspect-ratio",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Displays images with correct aspect ratio",
+    "auditDocumentationLink": "https://web.dev/image-aspect-ratio/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "image-size-responsive",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Serves images with appropriate resolution",
+    "auditDocumentationLink": "https://web.dev/serve-responsive-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "input-image-alt",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`<input type=\"image\">` elements have `[alt]` text",
+    "auditDocumentationLink": "https://web.dev/input-image-alt/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "inspector-issues",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "No issues in the `Issues` panel in Chrome Devtools"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "installable-manifest",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Web app manifest or service worker do not meet the installability requirements",
+    "auditDocumentationLink": "https://web.dev/installable-manifest/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "is-crawlable",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Page isn’t blocked from indexing",
+    "auditDocumentationLink": "https://web.dev/is-crawable/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "is-on-https",
+    "level": "warn",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Uses HTTPS",
+    "auditDocumentationLink": "https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "largest-contentful-paint",
+    "level": "warn",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Largest Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/lighthouse-largest-contentful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "link-name",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Links have a discernible name",
+    "auditDocumentationLink": "https://web.dev/link-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "link-text",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Links have descriptive text",
+    "auditDocumentationLink": "https://web.dev/link-text/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "mainthread-work-breakdown",
+    "level": "warn",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Minimizes main-thread work",
+    "auditDocumentationLink": "https://web.dev/mainthread-work-breakdown/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "maskable-icon",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Manifest doesn't have a maskable icon",
+    "auditDocumentationLink": "https://web.dev/maskable-icon-audit/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "max-potential-fid",
+    "level": "warn",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Max Potential First Input Delay",
+    "auditDocumentationLink": "https://web.dev/lighthouse-max-potential-fid/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "meta-description",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Document has a meta description",
+    "auditDocumentationLink": "https://web.dev/meta-description/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "meta-refresh",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "The document does not use `<meta http-equiv=\"refresh\">`",
+    "auditDocumentationLink": "https://web.dev/meta-refresh/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "meta-viewport",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`[user-scalable=\"no\"]` is not used in the `<meta name=\"viewport\">` element and the `[maximum-scale]` attribute is not less than 5.",
+    "auditDocumentationLink": "https://web.dev/meta-viewport/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "no-document-write",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Avoids `document.write()`",
+    "auditDocumentationLink": "https://web.dev/no-document-write/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "no-unload-listeners",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Avoids `unload` event listeners",
+    "auditDocumentationLink": "https://developers.google.com/web/updates/2018/07/page-lifecycle-api#the-unload-event"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "non-composited-animations",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Avoid non-composited animations",
+    "auditDocumentationLink": "https://web.dev/non-composited-animations"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "notification-on-start",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Avoids requesting the notification permission on page load",
+    "auditDocumentationLink": "https://web.dev/notification-on-start/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "object-alt",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`<object>` elements have `[alt]` text",
+    "auditDocumentationLink": "https://web.dev/object-alt/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "password-inputs-can-be-pasted-into",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Allows users to paste into password fields",
+    "auditDocumentationLink": "https://web.dev/password-inputs-can-be-pasted-into/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "preload-fonts",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Fonts with `font-display: optional` are preloaded",
+    "auditDocumentationLink": "https://web.dev/preload-optional-fonts/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "preload-lcp-image",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Preload Largest Contentful Paint image",
+    "auditDocumentationLink": "https://web.dev/optimize-lcp/#preload-important-resources"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "robots-txt",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "robots.txt is valid",
+    "auditDocumentationLink": "https://web.dev/robots-txt/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "server-response-time",
+    "level": "warn",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Initial server response time was short",
+    "auditDocumentationLink": "https://web.dev/time-to-first-byte/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "service-worker",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Registers a service worker that controls page and `start_url`",
+    "auditDocumentationLink": "https://web.dev/service-worker/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "speed-index",
+    "level": "warn",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Speed Index",
+    "auditDocumentationLink": "https://web.dev/speed-index/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "splash-screen",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Is not configured for a custom splash screen",
+    "auditDocumentationLink": "https://web.dev/splash-screen/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "tap-targets",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Tap targets are sized appropriately",
+    "auditDocumentationLink": "https://web.dev/tap-targets/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "td-headers-attr",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Cells in a `<table>` element that use the `[headers]` attribute refer to table cells within the same table.",
+    "auditDocumentationLink": "https://web.dev/td-headers-attr/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "th-has-data-cells",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`<th>` elements and elements with `[role=\"columnheader\"/\"rowheader\"]` have data cells they describe.",
+    "auditDocumentationLink": "https://web.dev/th-has-data-cells/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "themed-omnibox",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Sets a theme color for the address bar.",
+    "auditDocumentationLink": "https://web.dev/themed-omnibox/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "third-party-facades",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Lazy load third-party resources with facades",
+    "auditDocumentationLink": "https://web.dev/third-party-facades/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "timing-budget",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Timing budget",
+    "auditDocumentationLink": "https://developers.google.com/web/tools/lighthouse/audits/budgets"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "total-byte-weight",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Avoids enormous network payloads",
+    "auditDocumentationLink": "https://web.dev/total-byte-weight/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "unsized-images",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Image elements have explicit `width` and `height`",
+    "auditDocumentationLink": "https://web.dev/optimize-cls/#images-without-dimensions"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "uses-passive-event-listeners",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Uses passive listeners to improve scrolling performance",
+    "auditDocumentationLink": "https://web.dev/uses-passive-event-listeners/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "uses-rel-preload",
+    "level": "warn",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Preload key requests",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preload/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "valid-lang",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`[lang]` attributes have a valid value",
+    "auditDocumentationLink": "https://web.dev/valid-lang/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "valid-source-maps",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Page has valid source maps",
+    "auditDocumentationLink": "https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "video-caption",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`<video>` elements contain a `<track>` element with `[kind=\"captions\"]`",
+    "auditDocumentationLink": "https://web.dev/video-caption/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "accesskeys",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "`[accesskey]` values are unique",
+    "auditDocumentationLink": "https://web.dev/accesskeys/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "bypass",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "The page contains a heading, skip link, or landmark region",
+    "auditDocumentationLink": "https://web.dev/bypass/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "canonical",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Document has a valid `rel=canonical`",
+    "auditDocumentationLink": "https://web.dev/canonical/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "charset",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Properly defines charset",
+    "auditDocumentationLink": "https://web.dev/charset/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "deprecations",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Avoids deprecated APIs",
+    "auditDocumentationLink": "https://web.dev/deprecations/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "dlitem",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Definition list items are wrapped in `<dl>` elements",
+    "auditDocumentationLink": "https://web.dev/dlitem/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "doctype",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Page has the HTML doctype",
+    "auditDocumentationLink": "https://web.dev/doctype/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "hreflang",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Document has a valid `hreflang`",
+    "auditDocumentationLink": "https://web.dev/hreflang/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "interactive",
+    "level": "warn",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Time to Interactive",
+    "auditDocumentationLink": "https://web.dev/interactive/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "label",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Form elements have associated labels",
+    "auditDocumentationLink": "https://web.dev/label/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "list",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).",
+    "auditDocumentationLink": "https://web.dev/list/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "listitem",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "List items (`<li>`) are contained within `<ul>` or `<ol>` parent elements",
+    "auditDocumentationLink": "https://web.dev/listitem/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "plugins",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Document avoids plugins",
+    "auditDocumentationLink": "https://web.dev/plugins/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "redirects",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Avoid multiple page redirects",
+    "auditDocumentationLink": "https://web.dev/redirects/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "tabindex",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "No element has a `[tabindex]` value greater than 0",
+    "auditDocumentationLink": "https://web.dev/tabindex/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": null,
+    "values": [
+      null,
+      null,
+      null
+    ],
+    "operator": ">=",
+    "passed": false,
+    "message": "Audit did not produce a value at all. \"minScore\" might not be a valid assertion for this audit.",
+    "auditId": "viewport",
+    "level": "error",
+    "url": "http://localhost:50767/index.html",
+    "auditTitle": "Has a `<meta name=\"viewport\">` tag with `width` or `initial-scale`",
+    "auditDocumentationLink": "https://web.dev/viewport/"
+  }
+]
