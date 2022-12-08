@@ -1,1 +1,4 @@
-{}
+{
+  "http://localhost:64228/dist/index.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1670498125289-90328.report.html",
+  "http://localhost:64228/src/index.html": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1670498126176-84034.report.html"
+}
