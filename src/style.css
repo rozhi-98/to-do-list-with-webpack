@@ -63,17 +63,12 @@ h1 {
   padding: 0.4rem 0;
 }
 
-.todo input:focus {
-  outline: none;
-}
-
 .add-todo input::-moz-placeholder {
   font-size: 1.8rem;
   font-style: italic;
 }
 
-.add-todo input:focus {
-  border: none;
+.todo input:focus {
   outline: none;
 }
 
