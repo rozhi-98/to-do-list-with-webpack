@@ -5,7 +5,7 @@ const todoContainer = document.querySelector(".todo-list");
 
 const generateMarkup = (data) => {
   return `<li class="todo" data-index="${data.index}" data-completed="${data.completed}"> 
-  <label for="${data.index}"> <i class="fa-regular fa-square"></i> </label>
+  <label for="${data.index}"> <input type="checkbox"> </label>
   <input type="text" id="${data.index}" class="item-description-input" name="${data.index}" value="${data.description}">
    <div class="fa-list-icon"><i
   class="fa-solid fa-ellipsis-vertical"></i></div> 
